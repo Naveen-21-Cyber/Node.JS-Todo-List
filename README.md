@@ -11,7 +11,13 @@ A modern, full-stack todo application built with Node.js, Express, MongoDB, and 
 
 ## 🌟 Demo
 
-![Todo App Demo](https://via.placeholder.com/800x400/1a1a2e/ffffff?text=Advanced+Todo+App+Demo)
+![image](https://github.com/user-attachments/assets/6fc30c45-4b6c-44b4-bf6b-a448d1ab0e6d)
+![image](https://github.com/user-attachments/assets/f468ce3e-6277-40f7-bf91-ab0b5bd2a281)
+![image](https://github.com/user-attachments/assets/94e42af7-6bee-4981-9038-4b30043d1a62)
+![image](https://github.com/user-attachments/assets/3fec8f9d-7048-403b-b0ed-1e8b6943fb00)
+![image](https://github.com/user-attachments/assets/7c8da240-b307-4854-ac9d-296e832781a8)
+
+
 
 *Add your application screenshots here*
 
@@ -79,7 +85,7 @@ Before running this application, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/advanced-todo-app.git
+git clone https://github.com//Naveen-21-Cyber/advanced-todo-app.git
 cd advanced-todo-app
 ```
 
@@ -336,9 +342,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
+- GitHub: [@yourusername](https://github.com//Naveen-21-Cyber)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/naveen-telasang/)
+- Email: naveen.secureanalyst@gmail.com
 
 ## 🙏 Acknowledgments
 
