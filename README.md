@@ -19,7 +19,6 @@ A modern, full-stack todo application built with Node.js, Express, MongoDB, and 
 
 
 
-*Add your application screenshots here*
 
 ## ✨ Features
 
